@@ -1,8 +1,8 @@
-Author emily 
-Title: the best paper ever
+AuthorJohn and  emily 
+Title: the best paper ever about tgac
 
-Intro:
-Data:bfyuiawebh
+Intro: theis is the best paper ever
+Data:bfyuiawebh- john has all of this data
 Analysis:gfersg
 Conclusion:gerafrer- tbc
 this is amazing 
